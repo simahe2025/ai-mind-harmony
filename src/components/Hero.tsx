@@ -42,7 +42,7 @@ const Hero = () => {
             </div>
             <div className="flex items-center gap-2">
               <span className="w-2 h-2 bg-white rounded-full"></span>
-              <span>项目周期：2023-2024</span>
+              <span>项目周期：2023-2025</span>
             </div>
           </div>
 
