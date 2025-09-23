@@ -27,7 +27,7 @@ const Footer = () => {
               </p>
               <div className="flex items-center gap-2 mt-4">
                 <Calendar className="w-4 h-4" />
-                <span>项目周期：2023-2024年</span>
+                <span>项目周期：2023-2025年</span>
               </div>
             </div>
           </div>
