@@ -23,7 +23,7 @@ const ResearchContent = () => {
       phase: "第三阶段",
       period: "2024年7月 - 2024年9月", 
       title: "实证研究",
-      description: "收集1000名大学生数据，验证AI技术实际效果",
+      description: "收集数据，验证AI技术实际效果",
       status: "in-progress"
     },
     {
