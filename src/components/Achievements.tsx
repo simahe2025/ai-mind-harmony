@@ -34,7 +34,7 @@ const Achievements = () => {
       code: "2023WQNCX055",
       type: "广东省普通高校青年创新人才项目",
       funding: "2万元",
-      period: "2023-2024",
+      period: "2023-2025",
       role: "主持",
       status: "在研"
     },
