@@ -6,25 +6,25 @@ import { FileText, Award, BookOpen, ExternalLink, Download } from 'lucide-react'
 const Achievements = () => {
   const publications = [
     {
-      title: "人工智能技术在大学生心理健康教育中的应用现状研究",
-      journal: "高等教育研究",
+      title: "基于“五位一体”的音乐师范生教育评价改革实践探索",
+      journal: "《教育理论与研究》",
       year: "2024",
       status: "已发表",
       type: "期刊论文"
     },
     {
-      title: "基于机器学习的大学生心理状态预测模型构建",
-      journal: "计算机教育",
+      title: "音乐师范生心理育人方式的探索——以“悦音智语”师范生心理实践工作坊为例",
+      journal: "《科学新生活 CN 11-4682/Z》",
       year: "2024", 
-      status: "待发表",
+      status: "已发表",
       type: "期刊论文"
     },
     {
-      title: "数字化时代大学生心理健康教育创新路径探索",
-      journal: "教育现代化",
-      year: "2023",
+      title: "智能体驱动广东乡村音乐教育数字化转型路径探索",
+      journal: "第十四届全国思想政治教育高端论坛",
+      year: "2024",
       status: "已发表",
-      type: "期刊论文"
+      type: "会议论文"
     }
   ];
 
@@ -39,11 +39,11 @@ const Achievements = () => {
       status: "在研"
     },
     {
-      title: "基于大数据的大学生心理危机预警系统研究",
-      code: "2022JY001",
-      type: "校级教改项目",
-      funding: "1万元", 
-      period: "2022-2023",
+      title: "数据要素赋能乡村音乐教育的应用探索",
+      code: "2024",
+      type: "校级大创项目",
+      funding: "0.5万元", 
+      period: "2024-2025",
       role: "主持",
       status: "已结题"
     }
@@ -51,22 +51,22 @@ const Achievements = () => {
 
   const awards = [
     {
-      title: "广东省高校心理健康教育优秀成果奖",
+      title: "广东省“新师范”建设优秀案例",
       level: "省级",
-      year: "2023",
+      year: "2024",
+      rank: "优秀案例"
+    },
+    {
+      title: "数据要素赋能广东乡村教育——十九届南方改革论坛“南方改革杯”",
+      level: "省级",
+      year: "2024", 
+      rank: "优秀奖"
+    },
+    {
+      title: "音乐师范生教育评价改革实践探索",
+      level: "省级",
+      year: "2024",
       rank: "二等奖"
-    },
-    {
-      title: "全国大学生心理健康教育研究优秀论文奖",
-      level: "国家级",
-      year: "2023", 
-      rank: "三等奖"
-    },
-    {
-      title: "校级教学成果奖",
-      level: "校级",
-      year: "2022",
-      rank: "一等奖"
     }
   ];
 
@@ -79,7 +79,7 @@ const Achievements = () => {
             学术成果
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-            在人工智能与心理健康教育交叉领域取得的主要研究成果与学术贡献
+            在人工智能与音乐教育、心理健康教育交叉领域取得的主要研究成果与学术贡献
           </p>
         </div>
 
