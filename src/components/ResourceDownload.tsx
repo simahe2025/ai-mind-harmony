@@ -18,7 +18,7 @@ const ResourceDownload = () => {
         },
         {
           title: "大学生心理健康状况调研报告",
-          description: "基于1000名大学生样本的心理健康状况调研分析报告",
+          description: "基于大学生样本的心理健康状况调研分析报告",
           type: "PDF", 
           size: "1.8MB",
           icon: BarChart,
