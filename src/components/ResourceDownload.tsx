@@ -38,8 +38,8 @@ const ResourceDownload = () => {
           downloadUrl: "#"
         },
         {
-          title: "基于机器学习的心理状态预测模型",
-          description: "构建大学生心理状态预测模型的理论框架与实现方法",
+          title: "基于智能体的心理健康陪伴助理实践",
+          description: "基于智能体的心理健康陪伴助理实践",
           type: "PDF",
           size: "980KB",
           icon: FileText,
@@ -51,17 +51,17 @@ const ResourceDownload = () => {
       category: "数据资料",
       items: [
         {
-          title: "大学生心理健康调查数据集",
-          description: "匿名化处理后的大学生心理健康调查原始数据",
-          type: "CSV",
+          title: "中国科学院心理研究所《心理健康蓝皮书》2022",
+          description: "全国75,542名大学生心理健康调查原始数据",
+          type: "PDF",
           size: "5.2MB",
           icon: Database,
           downloadUrl: "#"
         },
         {
-          title: "AI心理健康应用案例数据库",
-          description: "收集整理的国内外AI心理健康应用典型案例数据",
-          type: "XLSX",
+          title: "Healthy Minds Study（USA）",
+          description: "收集整理的美国本科生样本",
+          type: "PDF",
           size: "3.1MB",
           icon: Database,
           downloadUrl: "#"
