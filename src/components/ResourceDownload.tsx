@@ -60,7 +60,7 @@ const ResourceDownload = () => {
         },
         {
           title: "Healthy Minds Study（USA）",
-          description: "收集整理的美国本科生样本",
+          description: "收集整理的本科生样本",
           type: "PDF",
           size: "3.1MB",
           icon: Database,
