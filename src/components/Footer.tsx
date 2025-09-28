@@ -38,15 +38,15 @@ const Footer = () => {
             <div className="space-y-3 text-sm text-gray-300">
               <div className="flex items-center gap-2">
                 <Mail className="w-4 h-4" />
-                <span>research@example.edu.cn</span>
+                <span>jiangtian@gdei.edu.cn</span>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="w-4 h-4" />
-                <span>+86 xxx-xxxx-xxxx</span>
+                <span>+86 3696-7776</span>
               </div>
               <div className="flex items-center gap-2">
                 <MapPin className="w-4 h-4" />
-                <span>广东省教育厅</span>
+                <span>Jiang Tian</span>
               </div>
             </div>
           </div>
