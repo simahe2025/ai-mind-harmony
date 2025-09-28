@@ -67,10 +67,10 @@ const Footer = () => {
         <div className="border-t border-gray-700 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-400">
             <p>
-              © 2024 人工智能辅助大学生心理健康教育研究项目. 版权所有.
+              © 2023-2025 人工智能辅助大学生心理健康教育研究项目. 版权所有.
             </p>
             <p>
-              粤ICP备xxxxxxxx号 | 广东省普通高校青年创新人才项目
+              广东省普通高校青年创新人才项目
             </p>
           </div>
         </div>
